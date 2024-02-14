@@ -1,0 +1,24 @@
+Breakfast,Scramble eggs,300,gr,29.0
+Pizza,Pizza Pollo,570,gr,33.0
+Pizza,Pizza Frutti Di Mare,600,gr,49.0
+Pizza,Pizza Anchoa,500,gr,32.0
+Pizza,Pizza Tonno E Cipolla,500,gr,36.0
+Pizza,Pizza Bresaola E Bufala,550,gr,40.0
+Pizza,Pizza Babic,450,gr,35.0
+Pizza,Pizza Bresaola,520,gr,35.0
+Nonalcoolice,Mirinda,330,ml,7.0
+Nonalcoolice,Mountain Dew,330,ml,7.0
+Nonalcoolice,Pepsi Cola,330,ml,7.0
+Nonalcoolice,pepsi Max,330,ml,7.0
+Nonalcoolice,Pepsi Twist,330,ml,7.0
+Nonalcoolice,Prigat Piersica,330,ml,7.0
+Nonalcoolice,Prigat Visine,330,ml,7.0
+Nonalcoolice,Aqua Carpatica Plata,500,ml,8.0
+Nonalcoolice,Aqua Carpatica Minerala,500,ml,8.0
+Alcoolice,Birra Moretti,330,ml,8.0
+Alcoolice,Ciuc Premium 5.0% vol,330,ml,7.0
+Alcoolice,Heineken 0% vol,330,ml,8.0
+Alcoolice,Heineken 5.0% vol,330,ml,8.0
+Desert,Snickers Cake,135,gr,25.0
+Desert,Orange Cake,145,gr,20.0
+Desert,Cheesecake,130,gr,20.0

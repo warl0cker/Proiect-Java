@@ -1,0 +1,5 @@
+99999,manager,Popescu,Ion
+10000,chelner,Basescu,Traian
+10001,chelner,Iliescu,Ion
+10002,chelner,Constantinescu,Emil
+10003,chelner,Vadimescu,Tudorescu
